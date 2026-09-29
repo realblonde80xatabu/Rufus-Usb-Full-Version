@@ -238,4 +238,4 @@ This repository serves as the official landing page for **Rufus**. The software 
 **Get the most recent version of Rufus today!**
 
 ---
-**Last updated:** 2026-09-28 23:43:40 UTC
+**Last updated:** 2026-09-29 04:26:11 UTC
